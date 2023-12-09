@@ -25,11 +25,11 @@ I am a web developer.I am working on frontend development with react.I develop f
 - (Live Link: https://bitter-pigs.surge.sh)
 
 - 🤝  [automotive-Brand-car]
- >User Authentication and authorization
- >User clicks on the car of the brand, the cars of that brand will be shown
- >User can add new car details to database if they want
- >User can delete the added cars if they want
- >User can update the car details of each brand by clicking the update button
+  >User Authentication and authorization
+  >User clicks on the car of the brand, the cars of that brand will be shown
+  >User can add new car details to database if they want
+  >User can delete the added cars if they want
+  >User can update the car details of each brand by clicking the update button
 
 - (Live Link: https://user-automotive-auth.web.app)
 
