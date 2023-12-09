@@ -6,12 +6,14 @@
 I am a web developer.I am working on frontend development with react.I develop frontend with html and css and java script. 
 
 <h3 align="left">😊Project:</h3>
-- 🔭 I’m currently working on [Hotel-Room-Booking]
-  >User can booking-room
-  >User Authentication and authorization
-  >User does not have to book the booking room
-  >User can change the booking date if they want 
-  >User  can give room reviews
+- 🔭 I’m currently working on
+
+   👯[Hotel-Room-Booking]
+    >User can booking-room
+    >User Authentication and authorization
+    >User does not have to book the booking room
+    >User can change the booking date if they want 
+    >User  can give room reviews
   
 (Live Link: https://vigorous-feet.surge.sh)
 
