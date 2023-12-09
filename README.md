@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sajedul Haque Emon</h1>
 <h3 align="center">A passionate frontend web developer from Banglades</h3>
 <img align="center" alt="coding" src="https://img.freepik.com/free-photo/composition-with-html-system-websites_23-2150866280.jpg?size=626&ext=jpg&uid=R130286619&ga=GA1.1.1880001990.1696672128&semt=ais">
-I am a web developer.I am working on frontend development with react.I develop frontend with html and css and java script.
+
 <h3 align="left">😊About Me:</h3>
 I am a web developer.I am working on frontend development with react.I develop frontend with html and css and java script. 
 
