@@ -6,11 +6,31 @@
 I am a web developer.I am working on frontend development with react.I develop frontend with html and css and java script. 
 
 <h3 align="left">😊Project:</h3>
-- 🔭 I’m currently working on [Hotel-Room-Booking](Live Link: https://vigorous-feet.surge.sh)
+- 🔭 I’m currently working on [Hotel-Room-Booking]
+  >User can booking-room
+  >User Authentication and authorization
+  >User does not have to book the booking room
+  >User can change the booking date if they want 
+  >User  can give room reviews
+  
+(Live Link: https://vigorous-feet.surge.sh)
 
-- 👯 I’m looking to collaborate on [Event-Management](Live Link: https://bitter-pigs.surge.sh)
+- 👯  [Event-Management]
+  >User Authentication and authorization
+  >User can view course details by clicking on course details button
+  >User will see some course related image inside the gallery room 
+  >User wants to buy the course, he can buy the course by clicking on the apply button
+  
+- (Live Link: https://bitter-pigs.surge.sh)
 
-- 🤝 I’m looking for help with [automotive-Brand-car](Live Link: https://user-automotive-auth.web.app)
+- 🤝  [automotive-Brand-car]
+ >User Authentication and authorization
+ >User clicks on the car of the brand, the cars of that brand will be shown
+ >User can add new car details to database if they want
+ >User can delete the added cars if they want
+ >User can update the car details of each brand by clicking the update button
+
+- (Live Link: https://user-automotive-auth.web.app)
 
 - 💬 Ask me about **React,JavaScript,Node.js,Express.js,MongoDB,Html,Css**
 
