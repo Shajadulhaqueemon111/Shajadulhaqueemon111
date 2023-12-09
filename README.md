@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Sajedul Haque Emon</h1>
 <h3 align="center"> Frontend web developer from Banglades</h3>
-<img align="center" width="700" alt="coding" src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&uid=R130286619&ga=GA1.1.1880001990.1696672128&semt=ais">
+<img align="center" width="1000" alt="coding" src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?size=626&ext=jpg&uid=R130286619&ga=GA1.1.1880001990.1696672128&semt=ais">
 
 <h3 align="left">😊About Me:</h3>
 I am a web developer.I am working on frontend development with react.I develop frontend with html and css and java script. 
