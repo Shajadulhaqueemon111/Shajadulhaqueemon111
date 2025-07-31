@@ -125,9 +125,6 @@ Let's connect if you're looking for a developer who codes with purpose and build
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-</a>
 
 <a href="https://www.instagram.com/mdsajedulhaqueemon/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -137,7 +134,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
 </a>
 
-<a href="https://discord.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://discord.com/mdemon0018" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 
