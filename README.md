@@ -13,7 +13,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
 
 <h3 align="left">😊Project:</h3>
 
-  🔬[PharmaDoor - Pharmacy Management Web Application]
+  🔬[PharmaDoor - Pharmacy Management Web Application](https://pharma-door-frontend.vercel.app/)
 - A role-based pharmacy management system where Admins and Pharmacists collaborate to manage medicines and prescriptions securely and efficiently.
 - 🚀 Tech Stack:
       Frontend: Next.js, React,TypeScript, Tailwind CSS
@@ -40,16 +40,10 @@ Let's connect if you're looking for a developer who codes with purpose and build
    >🛡️ Protected Routes
      Backend is protected with JWT tokens and custom middleware to ensure only authorized users can perform sensitive actions.
 
-   <a
-   href="https://pharma-door-frontend.vercel.app/"
-   target="_blank"
-   rel="noopener noreferrer"
-  className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
-  >
-  🌐 Visit Live Site
-</a>
+ 
 
-   🛒 Kenakata – Modern E-commerce Web App Built with Next.js
+   🛒 [Kenakata – Modern E-commerce Web App Built with Next.js](https://my-kenakata-app.vercel.app/user)
+  
    Kenakata is a fully responsive and feature-rich E-commerce application built with Next.js. It allows users to browse products, manage their cart, and place orders —    while admins can manage inventory, users, and order data through a protected dashboard.
 
   🚀 Tech Stack:
@@ -57,8 +51,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
       Backend/API: Next.js API Routes,TypeScript, / Express (if used separately)
       Database: MongoDB + Mongoose
       Authentication: JWT-based, role-protected (User & Admin)
-
-Deployment: Vercel
+      Deployment: Vercel
 
   🧩 Key Features:
    >🛍️ Product Browsing
@@ -82,17 +75,10 @@ Deployment: Vercel
 
   >⚡ Blazing Fast Performance
      Thanks to Next.js’s server-side rendering (SSR) and optimized image loading.
-    <a
-    href="https://my-kenakata-app.vercel.app/user"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
-    >
-  🌐 Visit Live Site
-   </a>
 
 
- [TaskFlow – Secure & Scalable Task Management System]
+
+  📋[TaskFlow – Task Management System](https://my-note-organize-app.vercel.app/)
 
 A modern full-stack task management web app designed for teams and individuals. Built with role-based access, private task control, and real-time interaction to streamline your productivity.
 🚀 Tech Stack:
@@ -114,7 +100,7 @@ A modern full-stack task management web app designed for teams and individuals. 
      >📆 Deadline & Priority Management
        Assign deadlines and priorities to keep tasks aligned with goals and delivery timelines.
 
-   🔄 Real-Time Updates
+     🔄 Real-Time Updates
       Tasks update instantly in the UI using React state and hooks for a smooth experience.
 
     >🧑‍💼 Multiple Roles Support
@@ -128,15 +114,7 @@ A modern full-stack task management web app designed for teams and individuals. 
 
     >🔒 Private Task Ownership
      Each user can only view or manage their own tasks — ensuring full data privacy and isolation.
-     <a
-     href="https://my-note-organize-app.vercel.app/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
-    >
-    🌐 Visit Live Site
-    </a>
-
+     
 - 💬 Ask me about **JavaScript,TypeScript,React,Next.js,Tailwind Css,Node.js,Express.js,Jwt,Mongoose,MongoDB**
 
 - 📫 How to reach me **mdshajdulhaqueemon@gmail.com**
