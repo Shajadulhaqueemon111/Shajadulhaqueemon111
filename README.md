@@ -1,39 +1,149 @@
 <h1 align="center">Hi 👋, I'm Md Sajedul Haque Emon</h1>
 <h3 align="center"> Full Stack Developer from Bangladesh</h3>
-<img align="center" width="1000" height="500" alt="coding" src="https://i.ibb.co.com/9kzXN60Z/Flux-Dev-A-modern-vibrant-banner-image-showcasing-a-full-stack-0.jpg">
+<img align="center" width="1000" height="500" alt="coding" src="https://i.ibb.co/fdNK6gHJ/4ddd4a55-db60-44b5-abb8-3f6e60a18fbc.jpg">
 
 <h3 align="left">😊About Me:</h3>
-I am a web developer.I am working on frontend development with react.I develop frontend with html and css and java script. 
+👨‍💻 I’m a passionate Full Stack Web Developer with hands-on experience in building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, MongoDB, and Mongoose.
+
+🚀 I specialize in creating responsive frontends and efficient backends, from developing clean UI components with React + Tailwind CSS to designing secure REST APIs and integrating MongoDB schemas using Mongoose.
+
+✅ I enjoy solving problems, writing clean code, and deploying full-stack applications on platforms like Vercel or Render. I'm constantly learning and striving to build impactful, real-world digital solutions.
+
+Let's connect if you're looking for a developer who codes with purpose and builds with performance in mind.
 
 <h3 align="left">😊Project:</h3>
 
-- 🔭[Hotel-Room-Booking]
-    >User can booking-room
-    >User Authentication and authorization
-    >User does not have to book the booking room
-    >User can change the booking date if they want 
-    >User  can give room reviews
-  
-(Live Link: https://vigorous-feet.surge.sh)
+- 🔬[PharmaDoor - Pharmacy Management Web Application]
+- A role-based pharmacy management system where Admins and Pharmacists collaborate to manage medicines and prescriptions securely and efficiently.
+- 🚀 Tech Stack:
+      Frontend: Next.js, React,TypeScript, Tailwind CSS
+      Backend/API: TypeScript, Node.js, Express (if used separately)
+      Database: MongoDB + Mongoose
+      Authentication: JWT-based, role-protected (User & Admin)
+      Deployment: Vercel
 
-- 👯  [Event-Management]
-  >User Authentication and authorization
-  >User can view course details by clicking on course details button
-  >User will see some course related image inside the gallery room 
-  >User wants to buy the course, he can buy the course by clicking on the apply button
-  
-- (Live Link: https://bitter-pigs.surge.sh)
+  > 🧑‍⚕️ Pharmacist Registration Flow
+    Pharmacists can register themselves, but cannot log into the dashboard until approved by an Admin.
 
-- 🤝  [automotive-Brand-car]
-  >User Authentication and authorization
-  >User clicks on the car of the brand, the cars of that brand will be shown
-  >User can add new car details to database if they want
-  >User can delete the added cars if they want
-  >User can update the car details of each brand by clicking the update button
+  > 📦 Medicine Management
+    Pharmacists can sell medicines, manage inventory, and update availability (after getting access).
 
-- (Live Link: https://user-automotive-auth.web.app)
+  > 📜 Admin Panel
+       Admins can:
+      >Approve or reject pharmacist accounts
+      >Monitor sales and medicine stock
+      >Manage users and roles
 
-- 💬 Ask me about **React,JavaScript,Node.js,Express.js,MongoDB,Html,Css**
+   >📊 Dashboard Access
+     Only approved pharmacists can access their dashboards to view and manage medicine-related tasks.
+
+   >🛡️ Protected Routes
+     Backend is protected with JWT tokens and custom middleware to ensure only authorized users can perform sensitive actions.
+
+   <a
+   href="https://pharma-door-frontend.vercel.app/"
+   target="_blank"
+   rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
+  >
+  🌐 Visit Live Site
+</a>
+
+🛒 Kenakata – Modern E-commerce Web App Built with Next.js
+Kenakata is a fully responsive and feature-rich E-commerce application built with Next.js. It allows users to browse products, manage their cart, and place orders — while admins can manage inventory, users, and order data through a protected dashboard.
+
+🚀 Tech Stack:
+Frontend: Next.js, React,TypeScript, Tailwind CSS
+
+Backend/API: Next.js API Routes,TypeScript, / Express (if used separately)
+
+Database: MongoDB + Mongoose
+
+Authentication: JWT-based, role-protected (User & Admin)
+
+Deployment: Vercel
+
+🧩 Key Features:
+🛍️ Product Browsing
+Users can explore product categories, filter items, view product details, and add to cart.
+
+🛒 Cart & Checkout
+Real-time cart management, price calculation, and secure order placement with confirmation.
+
+🔐 Authentication & Role-based Access
+Login/register functionality using JWT. Admin-only access to manage products, orders, and users.
+
+📦 Admin Dashboard
+Admins can:
+
+Create/update/delete products
+
+Manage inventory
+
+View all customer orders
+
+Approve or cancel orders
+
+📱 Mobile-Friendly Design
+Built with Tailwind CSS to ensure a responsive UI across devices.
+
+⚡ Blazing Fast Performance
+Thanks to Next.js’s server-side rendering (SSR) and optimized image loading.
+ <a
+  href="https://my-kenakata-app.vercel.app/user"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
+>
+  🌐 Visit Live Site
+</a>
+
+
+✅ [TaskFlow – Secure & Scalable Task Management System]
+A modern full-stack task management web app designed for teams and individuals. Built with role-based access, private task control, and real-time interaction to streamline your productivity.
+🚀 Tech Stack:
+      Frontend: Next.js, React,TypeScript, Tailwind CSS
+      Backend/API: TypeScript, Node.js, Express (if used separately)
+      Database: MongoDB + Mongoose
+      Authentication: JWT-based, role-protected (User & Admin)
+      Deployment: Vercel
+🔑 Key Features
+📝 Task Creation & Editing
+Easily create, update, and delete tasks with deadlines, priorities, and custom labels.
+
+👥 User Authentication
+Secure login and registration system using JWT and role-based access control for different user types.
+
+📋 Task Status Tracking
+Dynamically move tasks across different statuses: To Do, In Progress, Completed.
+
+📆 Deadline & Priority Management
+Assign deadlines and priorities to keep tasks aligned with goals and delivery timelines.
+
+🔄 Real-Time Updates
+Tasks update instantly in the UI using React state and hooks for a smooth experience.
+
+🧑‍💼 Multiple Roles Support
+Supports different access levels for Admin, Team Member, or Manager, each with custom dashboard views.
+
+📊 Dashboard Overview
+Visual representation of total tasks, progress tracking, and upcoming deadlines using charts or cards.
+
+🔐 Protected Routes
+Frontend & backend routes are secured using JWT middleware and role validation logic.
+
+🔒 Private Task Ownership
+Each user can only view or manage their own tasks — ensuring full data privacy and isolation.
+  <a
+  href="https://my-note-organize-app.vercel.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
+>
+  🌐 Visit Live Site
+</a>
+
+- 💬 Ask me about **JavaScript,TypeScript,React,Next.js,Tailwind Css,Node.js,Express.js,Jwt,Mongoose,MongoDB**
 
 - 📫 How to reach me **mdshajdulhaqueemon@gmail.com**
 
