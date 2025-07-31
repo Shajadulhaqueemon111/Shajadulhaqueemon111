@@ -16,6 +16,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
   🔬[PharmaDoor - Pharmacy Management Web Application](https://pharma-door-frontend.vercel.app/)
 - A role-based pharmacy management system where Admins and Pharmacists collaborate to manage medicines and prescriptions securely and efficiently.
 - 🚀 Tech Stack:
+  
       Frontend: Next.js, React,TypeScript, Tailwind CSS
       Backend/API: TypeScript, Node.js, Express (if used separately)
       Database: MongoDB + Mongoose
@@ -44,9 +45,10 @@ Let's connect if you're looking for a developer who codes with purpose and build
 
    🛒 [Kenakata – Modern E-commerce Web App Built with Next.js](https://my-kenakata-app.vercel.app/user)
   
-   Kenakata is a fully responsive and feature-rich E-commerce application built with Next.js. It allows users to browse products, manage their cart, and place orders —    while admins can manage inventory, users, and order data through a protected dashboard.
+      Kenakata is a fully responsive and feature-rich E-commerce application built with Next.js. It allows users to browse products, manage their cart, and placeorders      while admins can manage inventory, users, and order data through a protected dashboard.
 
-  🚀 Tech Stack:
+    🚀 Tech Stack:
+  
       Frontend: Next.js, React,TypeScript, Tailwind CSS
       Backend/API: Next.js API Routes,TypeScript, / Express (if used separately)
       Database: MongoDB + Mongoose
