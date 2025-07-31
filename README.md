@@ -139,12 +139,9 @@ Let's connect if you're looking for a developer who codes with purpose and build
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajadulhaqueemon111&show_icons=true&locale=en" alt="shajadulhaqueemon111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajadulhaqueemon111&" alt="shajadulhaqueemon111" /></p>
-###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
 
 
