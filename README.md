@@ -82,7 +82,8 @@ Let's connect if you're looking for a developer who codes with purpose and build
 
      A modern full-stack task management web app designed for teams and individuals. Built with role-based access, private task control, and real-time interaction to        streamline your productivity.
 
-🚀 Tech Stack:
+    🚀 Tech Stack:
+
       Frontend: Next.js, React,TypeScript, Tailwind CSS
       Backend/API: TypeScript, Node.js, Express (if used separately)
       Database: MongoDB + Mongoose
