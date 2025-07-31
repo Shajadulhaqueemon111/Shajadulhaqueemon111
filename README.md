@@ -64,39 +64,36 @@ Authentication: JWT-based, role-protected (User & Admin)
 Deployment: Vercel
 
 🧩 Key Features:
-🛍️ Product Browsing
-Users can explore product categories, filter items, view product details, and add to cart.
+  >🛍️ Product Browsing
+   Users can explore product categories, filter items, view product details, and add to cart.
 
-🛒 Cart & Checkout
-Real-time cart management, price calculation, and secure order placement with confirmation.
+  >🛒 Cart & Checkout
+   Real-time cart management, price calculation, and secure order placement with confirmation.
 
-🔐 Authentication & Role-based Access
-Login/register functionality using JWT. Admin-only access to manage products, orders, and users.
+  >🔐 Authentication & Role-based Access
+    Login/register functionality using JWT. Admin-only access to manage products, orders, and users.
 
-📦 Admin Dashboard
-Admins can:
+  >📦 Admin Dashboard
+   Admins can:
 
-Create/update/delete products
+   >Create/update/delete products
+   >Manage inventory
+   >View all customer orders
+   >Approve or cancel orders
 
-Manage inventory
+  >📱 Mobile-Friendly Design
+    Built with Tailwind CSS to ensure a responsive UI across devices.
 
-View all customer orders
-
-Approve or cancel orders
-
-📱 Mobile-Friendly Design
-Built with Tailwind CSS to ensure a responsive UI across devices.
-
-⚡ Blazing Fast Performance
-Thanks to Next.js’s server-side rendering (SSR) and optimized image loading.
- <a
+  >⚡ Blazing Fast Performance
+     Thanks to Next.js’s server-side rendering (SSR) and optimized image loading.
+  <a
   href="https://my-kenakata-app.vercel.app/user"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
->
+  >
   🌐 Visit Live Site
-</a>
+  </a>
 
 
 ✅ [TaskFlow – Secure & Scalable Task Management System]
@@ -108,40 +105,40 @@ A modern full-stack task management web app designed for teams and individuals. 
       Authentication: JWT-based, role-protected (User & Admin)
       Deployment: Vercel
 🔑 Key Features
-📝 Task Creation & Editing
-Easily create, update, and delete tasks with deadlines, priorities, and custom labels.
+     >📝 Task Creation & Editing
+      Easily create, update, and delete tasks with deadlines, priorities, and custom labels.
 
-👥 User Authentication
-Secure login and registration system using JWT and role-based access control for different user types.
+     >👥 User Authentication
+      Secure login and registration system using JWT and role-based access control for different user types.
 
-📋 Task Status Tracking
-Dynamically move tasks across different statuses: To Do, In Progress, Completed.
+     >📋 Task Status Tracking
+       Dynamically move tasks across different statuses: To Do, In Progress, Completed.
 
-📆 Deadline & Priority Management
-Assign deadlines and priorities to keep tasks aligned with goals and delivery timelines.
+     >📆 Deadline & Priority Management
+       Assign deadlines and priorities to keep tasks aligned with goals and delivery timelines.
 
 🔄 Real-Time Updates
-Tasks update instantly in the UI using React state and hooks for a smooth experience.
+    Tasks update instantly in the UI using React state and hooks for a smooth experience.
 
-🧑‍💼 Multiple Roles Support
-Supports different access levels for Admin, Team Member, or Manager, each with custom dashboard views.
+ >🧑‍💼 Multiple Roles Support
+   Supports different access levels for Admin, Team Member, or Manager, each with custom dashboard views.
 
-📊 Dashboard Overview
-Visual representation of total tasks, progress tracking, and upcoming deadlines using charts or cards.
+ >📊 Dashboard Overview
+   Visual representation of total tasks, progress tracking, and upcoming deadlines using charts or cards.
 
-🔐 Protected Routes
-Frontend & backend routes are secured using JWT middleware and role validation logic.
+ >🔐 Protected Routes
+   Frontend & backend routes are secured using JWT middleware and role validation logic.
 
-🔒 Private Task Ownership
-Each user can only view or manage their own tasks — ensuring full data privacy and isolation.
+ >🔒 Private Task Ownership
+   Each user can only view or manage their own tasks — ensuring full data privacy and isolation.
   <a
   href="https://my-note-organize-app.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
->
+   >
   🌐 Visit Live Site
-</a>
+ </a>
 
 - 💬 Ask me about **JavaScript,TypeScript,React,Next.js,Tailwind Css,Node.js,Express.js,Jwt,Mongoose,MongoDB**
 
