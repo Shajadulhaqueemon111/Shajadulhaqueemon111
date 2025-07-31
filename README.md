@@ -7,13 +7,13 @@
 
 🚀 I specialize in creating responsive frontends and efficient backends, from developing clean UI components with React + Tailwind CSS to designing secure REST APIs and integrating MongoDB schemas using Mongoose.
 
-✅ I enjoy solving problems, writing clean code, and deploying full-stack applications on platforms like Vercel or Render. I'm constantly learning and striving to build impactful, real-world digital solutions.
+ I enjoy solving problems, writing clean code, and deploying full-stack applications on platforms like Vercel or Render. I'm constantly learning and striving to build   impactful, real-world digital solutions.
 
 Let's connect if you're looking for a developer who codes with purpose and builds with performance in mind.
 
 <h3 align="left">😊Project:</h3>
 
-- 🔬[PharmaDoor - Pharmacy Management Web Application]
+  🔬[PharmaDoor - Pharmacy Management Web Application]
 - A role-based pharmacy management system where Admins and Pharmacists collaborate to manage medicines and prescriptions securely and efficiently.
 - 🚀 Tech Stack:
       Frontend: Next.js, React,TypeScript, Tailwind CSS
@@ -49,54 +49,51 @@ Let's connect if you're looking for a developer who codes with purpose and build
   🌐 Visit Live Site
 </a>
 
-🛒 Kenakata – Modern E-commerce Web App Built with Next.js
-Kenakata is a fully responsive and feature-rich E-commerce application built with Next.js. It allows users to browse products, manage their cart, and place orders — while admins can manage inventory, users, and order data through a protected dashboard.
+   🛒 Kenakata – Modern E-commerce Web App Built with Next.js
+   Kenakata is a fully responsive and feature-rich E-commerce application built with Next.js. It allows users to browse products, manage their cart, and place orders —    while admins can manage inventory, users, and order data through a protected dashboard.
 
-🚀 Tech Stack:
-Frontend: Next.js, React,TypeScript, Tailwind CSS
-
-Backend/API: Next.js API Routes,TypeScript, / Express (if used separately)
-
-Database: MongoDB + Mongoose
-
-Authentication: JWT-based, role-protected (User & Admin)
+  🚀 Tech Stack:
+      Frontend: Next.js, React,TypeScript, Tailwind CSS
+      Backend/API: Next.js API Routes,TypeScript, / Express (if used separately)
+      Database: MongoDB + Mongoose
+      Authentication: JWT-based, role-protected (User & Admin)
 
 Deployment: Vercel
 
-🧩 Key Features:
-  >🛍️ Product Browsing
-   Users can explore product categories, filter items, view product details, and add to cart.
+  🧩 Key Features:
+   >🛍️ Product Browsing
+    Users can explore product categories, filter items, view product details, and add to cart.
 
-  >🛒 Cart & Checkout
-   Real-time cart management, price calculation, and secure order placement with confirmation.
+   >🛒 Cart & Checkout
+    Real-time cart management, price calculation, and secure order placement with confirmation.
 
-  >🔐 Authentication & Role-based Access
-    Login/register functionality using JWT. Admin-only access to manage products, orders, and users.
+   >🔐 Authentication & Role-based Access
+     Login/register functionality using JWT. Admin-only access to manage products, orders, and users.
 
-  >📦 Admin Dashboard
-   Admins can:
+   >📦 Admin Dashboard
+    Admins can:
+    >Create/update/delete products
+    >Manage inventory
+    >View all customer orders
+    >Approve or cancel orders
 
-   >Create/update/delete products
-   >Manage inventory
-   >View all customer orders
-   >Approve or cancel orders
-
-  >📱 Mobile-Friendly Design
-    Built with Tailwind CSS to ensure a responsive UI across devices.
+   >📱 Mobile-Friendly Design
+     Built with Tailwind CSS to ensure a responsive UI across devices.
 
   >⚡ Blazing Fast Performance
      Thanks to Next.js’s server-side rendering (SSR) and optimized image loading.
-  <a
-  href="https://my-kenakata-app.vercel.app/user"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
-  >
+    <a
+    href="https://my-kenakata-app.vercel.app/user"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
+    >
   🌐 Visit Live Site
-  </a>
+   </a>
 
 
-✅ [TaskFlow – Secure & Scalable Task Management System]
+ [TaskFlow – Secure & Scalable Task Management System]
+
 A modern full-stack task management web app designed for teams and individuals. Built with role-based access, private task control, and real-time interaction to streamline your productivity.
 🚀 Tech Stack:
       Frontend: Next.js, React,TypeScript, Tailwind CSS
@@ -104,7 +101,7 @@ A modern full-stack task management web app designed for teams and individuals. 
       Database: MongoDB + Mongoose
       Authentication: JWT-based, role-protected (User & Admin)
       Deployment: Vercel
-🔑 Key Features
+   🔑 Key Features
      >📝 Task Creation & Editing
       Easily create, update, and delete tasks with deadlines, priorities, and custom labels.
 
@@ -117,28 +114,28 @@ A modern full-stack task management web app designed for teams and individuals. 
      >📆 Deadline & Priority Management
        Assign deadlines and priorities to keep tasks aligned with goals and delivery timelines.
 
-🔄 Real-Time Updates
-    Tasks update instantly in the UI using React state and hooks for a smooth experience.
+   🔄 Real-Time Updates
+      Tasks update instantly in the UI using React state and hooks for a smooth experience.
 
- >🧑‍💼 Multiple Roles Support
-   Supports different access levels for Admin, Team Member, or Manager, each with custom dashboard views.
+    >🧑‍💼 Multiple Roles Support
+      Supports different access levels for Admin, Team Member, or Manager, each with custom dashboard views.
 
- >📊 Dashboard Overview
-   Visual representation of total tasks, progress tracking, and upcoming deadlines using charts or cards.
+    >📊 Dashboard Overview
+     Visual representation of total tasks, progress tracking, and upcoming deadlines using charts or cards.
 
- >🔐 Protected Routes
-   Frontend & backend routes are secured using JWT middleware and role validation logic.
+    >🔐 Protected Routes
+     Frontend & backend routes are secured using JWT middleware and role validation logic.
 
- >🔒 Private Task Ownership
-   Each user can only view or manage their own tasks — ensuring full data privacy and isolation.
-  <a
-  href="https://my-note-organize-app.vercel.app/"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
-   >
-  🌐 Visit Live Site
- </a>
+    >🔒 Private Task Ownership
+     Each user can only view or manage their own tasks — ensuring full data privacy and isolation.
+     <a
+     href="https://my-note-organize-app.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center gap-2 text-purple-400 hover:text-pink-500 transition"
+    >
+    🌐 Visit Live Site
+    </a>
 
 - 💬 Ask me about **JavaScript,TypeScript,React,Next.js,Tailwind Css,Node.js,Express.js,Jwt,Mongoose,MongoDB**
 
