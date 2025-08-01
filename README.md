@@ -18,7 +18,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
 - 🚀 Tech Stack:
   
       Frontend: Next.js, React,TypeScript, Tailwind CSS
-      Backend/API: TypeScript, Node.js, Express (if used separately)
+      Backend/API: TypeScript, Node.js, Express 
       Database: MongoDB + Mongoose
       Authentication: JWT-based, role-protected (User & Admin)
       Deployment: Vercel
@@ -50,7 +50,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
     🚀 Tech Stack:
   
       Frontend: Next.js, React,TypeScript, Tailwind CSS
-      Backend/API: Next.js API Routes,TypeScript, / Express (if used separately)
+      Backend/API: Next.js API Routes,TypeScript, / Express 
       Database: MongoDB + Mongoose
       Authentication: JWT-based, role-protected (User & Admin)
       Deployment: Vercel
@@ -87,7 +87,7 @@ Let's connect if you're looking for a developer who codes with purpose and build
     🚀 Tech Stack:
 
       Frontend: Next.js, React,TypeScript, Tailwind CSS
-      Backend/API: TypeScript, Node.js, Express (if used separately)
+      Backend/API: TypeScript, Node.js, Express
       Database: MongoDB + Mongoose
       Authentication: JWT-based, role-protected (User & Admin)
       Deployment: Vercel
