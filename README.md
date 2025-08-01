@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Sajedul Haque Emon</h1>
 <h3 align="center"> Full Stack Developer from Bangladesh</h3>
-<img align="center" width="1000" height="500" alt="coding" src="https://i.ibb.co/fdNK6gHJ/4ddd4a55-db60-44b5-abb8-3f6e60a18fbc.jpg">
+<img align="center" width="1000" height="500" alt="coding" src="https://i.ibb.co/wFnnYpdM/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png">
 
 <h3 align="left">😊About Me:</h3>
 👨‍💻 I’m a passionate Full Stack Web Developer with hands-on experience in building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, MongoDB, and Mongoose.
